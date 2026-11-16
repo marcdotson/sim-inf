@@ -1,0 +1,16 @@
+# Simulation-Based Inference
+
+
+Simulation-based methods provide an alternative to traditional
+statistical inference. Instead of relying on theoretical asymptotics, we
+use simulations to directly interact with the hypothesized
+data-generating processes. Because of this, simulation-based inference
+is a computation-focused approach to statistical inference.
+
+Methods include:
+
+- Monte Carlo simulation of probability distributions
+- Permutation hypothesis tests
+- Bootstrapped confidence intervals
+- Simulated residuals for model diagnostic tests
+- Marginal effects approach to estimating causal effects
